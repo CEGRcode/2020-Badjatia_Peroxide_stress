@@ -1,4 +1,4 @@
-# Acute stress drives global repression through two independent RNA polymerase II stalling events in Saccharomyces
+# Acute stress drives global repression through two independent RNA polymerase II stalling events in *Saccharomyces*
 
 ### Nitika Badjatia <sup>1</sup>, Matthew J Rossi <sup>1</sup>, Alain R Bataille <sup>1</sup>, Chitvan Mittal <sup>2</sup>, William K M Lai <sup>2</sup>, B Franklin Pugh <sup>2</sup>
 
